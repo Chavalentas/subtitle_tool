@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "subtitles_console/1.0.0": {
+        "dependencies": {
+          "subtitles_lib": "1.0.0"
+        },
+        "runtime": {
+          "subtitles_console.dll": {}
+        }
+      },
+      "subtitles_lib/1.0.0": {
+        "runtime": {
+          "subtitles_lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "subtitles_console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "subtitles_lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
